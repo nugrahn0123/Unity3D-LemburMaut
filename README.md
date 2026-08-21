@@ -63,7 +63,9 @@ Kontribusi perbaikan diperbolehkan melalui issue atau pull request.
 
 ## Developer
 
-Game ini dikembangkan oleh **nugrahn0123**.
+Game ini dibangun secara penuh di Unity (coding, implementasi gameplay, dan pengembangan) oleh **Anugrah (nugrahn0123)** sebagai developer utama
+
+Perancang assets game: **Nur Qamariyah Yunus** dan **Nur Aliyah Amaliani**.
 
 ## Lisensi
 
