@@ -1,0 +1,11 @@
+Model Information:
+* title:	Police Office
+* source:	https://sketchfab.com/3d-models/police-office-7c513fe0d41a4dcb9eb0a33c09048bea
+* author:	neutralize (https://sketchfab.com/neutralize)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Police Office" (https://sketchfab.com/3d-models/police-office-7c513fe0d41a4dcb9eb0a33c09048bea) by neutralize (https://sketchfab.com/neutralize) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
